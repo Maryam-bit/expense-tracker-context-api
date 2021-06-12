@@ -3,9 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/193610446_848053352774859_6945470461867307684_n.png?_nc_cat=110&ccb=1-3&_nc_sid=aee45a&_nc_ohc=0Xq8c0JV2hkAX-UOwWN&_nc_oc=AQluQdC0tt8ZbXMPj0bP-2E8z2KYEbbK6ZEutzmuP-gFXRLefT2ylRNUAgCy9mQ7GkLx4J_1kMLwt2SQWoTjdRZL&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=2e192dd8231c449ff9f8fc56b8a0e72e&oe=60C923C6" alt="Flowers in Chania" width="200">
+  <img src=https://scontent.fisb7-1.fna.fbcdn.net/v/t1.15752-9/192546250_213161857300103_5442800729776006111_n.png?_nc_cat=100&ccb=1-3&_nc_sid=ae9488&_nc_ohc=3r9haEzeR9cAX9exAQx&_nc_ht=scontent.fisb7-1.fna&oh=1ff475f6a0fbd2b0c1538d2005c361d2&oe=60CA7102" alt="Flowers in Chania" width="200">
 
-  <h1 align="center">SHOE STORE WEBSITE IN CONTEXT API</h1>
+  <h1 align="center">EXPENSE TRACKER APP IN CONTEXT API</h1>
 </div>
 
 
