@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE PROJECT
 This Project is Made for practicing purpose.
-![image](https://user-images.githubusercontent.com/56764144/117897040-5646e200-b2db-11eb-948a-996ad0bc781c.PNG)
+![image](https://user-images.githubusercontent.com/56764144/121787304-cac4b780-cbde-11eb-90f6-dfc41821335a.png)
 
  
  
@@ -28,9 +28,6 @@ Following are the cutting edge technologies that I used in this project(shoe sto
 * SASS (CSS preprocessor)
 * CSS
 * Bootstrap
-* Material UI
-* Formik
-* Yup
 
 
 
