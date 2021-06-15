@@ -36,7 +36,7 @@ Following are the cutting edge technologies that I used in this project(shoe sto
 
 1. one the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Maryam-bit/expense-tracker-context-api.git
    ```
 2. stall NPM packages
    ```sh
