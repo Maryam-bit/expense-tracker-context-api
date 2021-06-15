@@ -23,7 +23,7 @@ https://youtu.be/HllBd4jKCAg
 
 ## BUILD WITH
 
-Following are the cutting edge technologies that I used in this project(shoe store)
+Following are the technologies that I used in this project(shoe store)
 * React JS (Javascript framework)
 * Context API
 * SASS (CSS preprocessor)
