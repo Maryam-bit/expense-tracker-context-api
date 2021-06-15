@@ -11,7 +11,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## ABOUT THE PROJECT
-This Project is Made for practicing purpose.
+
 
 ![image](https://user-images.githubusercontent.com/56764144/121787304-cac4b780-cbde-11eb-90f6-dfc41821335a.png)
 
