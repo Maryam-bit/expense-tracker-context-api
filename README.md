@@ -16,7 +16,7 @@ This Project is Made for practicing purpose.
 
 
 ## LINK 
-http://expense-tracker-reduxx.surge.sh/
+http://expense-tracker-2004.surge.sh/
  
  
 ## VIDEO
